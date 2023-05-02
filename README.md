@@ -6,6 +6,12 @@ Hisle Farm Park is a 280 acre park owned and operated by the city of Lexington. 
 ![Land Cover Change in Hisle](map.jpg)     
 *Change in Hisle Farm Park from 2010 - 2019 using LIDAR!*
 
-[Link to high-resolution version](hi-res.pdf)     
+[high-resolution version of data](hi-res.pdf)     
 
-Information about the author and data sources used in the analysis.
+Author Information - 
+Jack Chappuies is a GEO 409 Student 
+Senior at University of Kentucky 
+
+Data used to compile map:
+KyfromAbove.gov  &
+Kyraster.gov
